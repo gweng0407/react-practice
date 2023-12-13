@@ -1,3 +1,5 @@
+터미널에서 npm start 입력 시 실행
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
